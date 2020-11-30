@@ -5,12 +5,12 @@ use think\Controller;
 class Index extends Controller
 {
     public function home(){
-        return 'home';
+        return view();
     }
     public function help(){
-        return 'help';
+        return view();
     }
     public function about(){
-        return 'about';
+        return view();
     }
 }
