@@ -17,7 +17,7 @@ return [
     // 数据库名
     'database'        => 'thinkphp_test',
     // 用户名
-    'username'        => 'thinkphp_test',
+    'username'        => 'root',
     // 密码
     'password'        => 'qwe123',
     // 端口
